@@ -12,7 +12,7 @@
 # If you encounter any issues with the code or have suggestions for improvement, please feel free to open an issue or submit a pull request. Your contributions are welcome!
 ﻿
 #
-School of Geosciences and Info-Physics
-Central South University
-Changsha 410083, China
+School of Geosciences and Info-Physics, 
+Central South University, 
+Changsha 410083, China. 
 Email: syding@csu.edu.cn
